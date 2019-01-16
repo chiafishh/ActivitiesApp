@@ -1,9 +1,6 @@
 # ActivitiesApp
 
-![]()
 ![](https://cdn-images-1.medium.com/max/800/1*ty_IvNzJmEsBggTakjpjfg.gif)
-
-![](https://cdn-images-1.medium.com/max/800/1*T_C4bMvuUxtfu9Uo-6fccQ@2x.png)
 
 此APP有兩個功能，分別是
 
